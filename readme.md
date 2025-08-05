@@ -33,3 +33,7 @@ assets/
     01_XeonHBMs.jpg
     A-Space-for-the-Unbound-jagatplay-128.jpg
 ```
+
+## Author
+
+vozert
